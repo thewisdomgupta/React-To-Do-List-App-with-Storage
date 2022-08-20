@@ -80,7 +80,7 @@ I have used below front-end technologies to make this website:
 * Localhost
 
 <p>
-The project To Do List App is a mini project on Recat JS. In which I have used HTML in little amount, CSS for styling and JavaScript for the functionality, Recat for the combination of HTML, CSS, Java Script and JSX as the syntax extension of Java Script.
+The project To Do List App is a mini project on Recat JS. In which I have used HTML in little amount, CSS for styling and JavaScript for the functionality, React for the combination of HTML, CSS, Java Script and JSX as the syntax extension of Java Script.
 </p>
 
 ## Click For Preview
